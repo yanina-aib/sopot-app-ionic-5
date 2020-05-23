@@ -1,0 +1,8 @@
+{
+  "name": "aib-map-app",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
